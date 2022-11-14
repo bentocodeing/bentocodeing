@@ -1,6 +1,6 @@
 ### [Hello there](https://www.youtube.com/watch?v=rEq1Z0bjdwc) 👋
 
-I introduce myself: Ben, 28 years old, software designer developer for over 4 years now 🚀. I am passionate about computer programming and more particularly anything related to JavaScript technology or the web in general. 
+I introduce myself: Ben, 28 years old, software engineer for over 4 years now 🚀. I am passionate about computer programming and more particularly anything related to JavaScript technology or the web in general. 
 
 My main interests are Computer Programming 🖥, Bodybuilding 💪, Manga 📖, Anime 🍥, Music 🎵, Gaming 👾, but also Nature 🌱, Astronomy 🔭, Traveling 🛫, and Writing Articles ✍️.
 

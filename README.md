@@ -1,6 +1,6 @@
 ### [Hello there](https://www.youtube.com/watch?v=rEq1Z0bjdwc) 👋
 
-I introduce myself: Ben, 28 years old, software engineer for over 4 years now 🚀. I am passionate about computer programming and more particularly anything related to JavaScript technology or the web in general. 
+I introduce myself: Ben, 28 years old, software engineer for over 5 years now 🚀. I am passionate about computer programming and more particularly anything related to JavaScript technology or the web in general. 
 
 My main interests are Computer Programming 🖥, Bodybuilding 💪, Manga 📖, Anime 🍥, Music 🎵, Gaming 👾, but also Nature 🌱, Astronomy 🔭, Traveling 🛫, and Writing Articles ✍️.
 
@@ -15,6 +15,9 @@ My main interests are Computer Programming 🖥, Bodybuilding 💪, Manga 📖, 
 
 #### Browser extensions
   - [Clearage](https://chrome.google.com/webstore/detail/clearage-clear-your-local/degjfgjmcbgmokkinibindbpghljhnfp?hl=en) The easiest and most effective way to clean your localstorage through an extension
+
+#### Scripts
+  - [Locerts](https://github.com/ARKHN3B/locerts) A utility script that generates local certifications for your computer
 
 
 &nbsp;

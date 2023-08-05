@@ -21,7 +21,7 @@ My main interests are Computer Programming 🖥, Bodybuilding 💪, Manga 📖, 
 
 
 &nbsp;
-### My articles
+### Read my articles
   - [Stop using query selectors for EVERYTHING!](https://medium.com/p/stop-using-query-selectors-for-everything-52a8a6cb3d38)
   - [6 short tips to IMPROVE your naming convention](https://medium.com/p/6-short-tips-to-improve-your-naming-convention-ed13f10469be)
   - [Stop skipping semicolons. Here’s why!](https://medium.com/p/stop-skipping-semicolons-heres-why-27929939d8a2)
@@ -30,6 +30,7 @@ My main interests are Computer Programming 🖥, Bodybuilding 💪, Manga 📖, 
   - [Stop using console.log](https://medium.com/p/stop-using-console-log-d281a900dedb)
   - [Missing non-mandatory function arguments? Use a custom fallback function to handle them.](https://medium.com/p/missing-non-mandatory-function-arguments-use-a-custom-fallback-function-to-handle-them-188aff6dbba3)
   - [Use the comma separator to call two or more handlers in JavaScript/React/Angular](https://medium.com/p/use-the-comma-separator-to-call-two-or-more-handlers-in-javascript-react-angular-787810d3e299)
+  - and more at [medium.com/@benlmsc](https://medium.com/@benlmsc)!
 
 
 &nbsp;

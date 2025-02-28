@@ -5,9 +5,9 @@ I introduce myself: Ben, 30 years old, software engineer for over 6 years now �
 My main interests are Computer Programming 🖥, Bodybuilding 💪, Manga 📖, Anime 🍥, Music 🎵, Gaming 👾, but also Nature 🌱, Astronomy 🔭, Traveling 🛫, and Writing Articles ✍️.
 
 &nbsp;
-### My creations
+### Creations
 #### Librairies
-  - [cermjs](https://github.com/ARKHN3B/cermjs) A small JavaScript software library to manage event listeners 
+  - [CERMjs](https://github.com/ARKHN3B/cermjs) A small JavaScript software library to manage event listeners 
   - [ScrolluXJS](https://github.com/ARKHN3B/ScrolluXJS) A small JavaScript library that allows you to create a onepage scroll for your website 
 
 #### Plugins

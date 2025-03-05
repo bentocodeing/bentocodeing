@@ -16,7 +16,7 @@ Building **bootstrapped projects** & sharing insights on **X, LinkedIn & YouTube
 
 📢 **Follow me on:** 
 
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)]([your-x-link](https://x.com/bentocodeing))  
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bentocodeing)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bentocodeing/)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](your-youtube-link)  
 

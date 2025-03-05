@@ -24,7 +24,7 @@ Building **bootstrapped projects** & sharing insights on **X, LinkedIn & YouTube
 
 ### 🛠️ Creations  
 
-#### 🚧 **Current Projects**  
+#### 🔥 **Main Focuss**  
 - [**Bug Appetit 🐛**](https://bugappetit.app) – Discover hidden bugs in your food with this simple and practical app.  
 
 #### 🏛️ **Notable Discontinued Projects**  

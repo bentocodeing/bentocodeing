@@ -1,22 +1,45 @@
-### [Hello there](https://www.youtube.com/watch?v=rEq1Z0bjdwc) 👋
+### [Hello there](https://www.youtube.com/watch?v=rEq1Z0bjdwc) 👋  
 
-🚀 Tech entrepreneur & full-stack dev (7+ yrs). Building bootstrapped projects & sharing insights on X, LinkedIn & YouTube. 💡 Solving problems, creating value.
+🚀 **Tech entrepreneur & full-stack dev (7+ yrs).**  
+Building **bootstrapped projects** & sharing insights on **X, LinkedIn & YouTube**.  
 
-`More ↓`
+💡 Passionate about **solving problems & creating value** through scalable software.  
 
-> Passionate about building scalable, efficient, and user-friendly software solutions. 
-  I specialize in scalable web applications using modern technologies like JavaScript, TypeScript, Next.js, React, and Laravel. Currently balancing a full-time role with bootstrapped projects, I document my journey in tech, problem-solving, and 
-  entrepreneurship.
+---
 
-💡 Goal: **Build profitable products and passive income while sharing the process.**
+### 🚀 About Me  
+> **Building profitable products & passive income while documenting the journey.**  
 
-&nbsp;
-### Creations
-#### Current project
-  - [Bug Appetit 🐛](https://bugappetit.app) Discover hidden bugs in your food with this simple and practical app.
-#### Notable discontinued projects
-  - [cermJS](https://github.com/ARKHN3B/cermjs) A small JavaScript software library to manage event listeners 
-  - [ScrolluXJS 📜](https://github.com/ARKHN3B/ScrolluXJS) A small JavaScript library that allows you to create a onepage scroll for your website 
-  - [netlify-plugin-use-env-in-runtime 🤖](https://github.com/ARKHN3B/netlify-plugin-use-env-in-runtime) A Netlify plugin that allows you to make some environment variables available only at build time, in the runtime of your application.
-  - [Clearage 🧹](https://chrome.google.com/webstore/detail/clearage-clear-your-local/degjfgjmcbgmokkinibindbpghljhnfp?hl=en) The easiest and most effective way to clean your localstorage through an extension
-  - [Locerts 📄](https://github.com/ARKHN3B/locerts) A utility script that generates local certifications for your computer
+🔹 Specializing in **JavaScript, TypeScript, Next.js, React, and Laravel**.  
+🔹 Focused on **scalable, efficient, and user-friendly web applications**.  
+🔹 Balancing a **full-time role** with **bootstrapped projects** & content creation.  
+
+📢 **Follow me on:** 
+
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)]([your-x-link](https://x.com/bentocodeing))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bentocodeing/)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](your-youtube-link)  
+
+---
+
+### 🛠️ Creations  
+
+#### 🚧 **Current Projects**  
+- [**Bug Appetit 🐛**](https://bugappetit.app) – Discover hidden bugs in your food with this simple and practical app.  
+
+#### 🏛️ **Notable Discontinued Projects**  
+Here are some past experiments & learnings:  
+- [**cermJS**](https://github.com/ARKHN3B/cermjs) – A lightweight event listener manager.  
+- [**ScrolluXJS**](https://github.com/ARKHN3B/ScrolluXJS) – Create one-page scroll experiences.  
+- [**netlify-plugin-use-env-in-runtime**](https://github.com/ARKHN3B/netlify-plugin-use-env-in-runtime) – Expose env variables at runtime.  
+- [**Clearage**](https://chrome.google.com/webstore/detail/clearage-clear-your-local/degjfgjmcbgmokkinibindbpghljhnfp?hl=en) – Clean your localStorage easily via extension.  
+- [**Locerts**](https://github.com/ARKHN3B/locerts) – Generate local certifications for your machine.  
+
+> 📝 *Each project taught valuable lessons in development, scaling, and market fit.*  
+
+---
+
+### 📩 Let’s Connect!  
+🚀 Always open to networking, collaborating, and discussing new ideas.  
+
+📬 Reach out on [X](your-x-link), [LinkedIn](your-linkedin-link), or check out my **content & insights on YouTube**!  

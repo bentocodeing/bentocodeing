@@ -7,7 +7,7 @@ Building **bootstrapped projects** & sharing insights on **X, LinkedIn & YouTube
 
 ---
 
-### 🚀 About Me  
+### 🥷 About Me  
 > **Building profitable products & passive income while documenting the journey.**  
 
 ・ Specializing in **JavaScript, TypeScript, Next.js, React, and Laravel**.  

@@ -25,7 +25,7 @@ Building **bootstrapped projects** & sharing insights on **X, LinkedIn & YouTube
 ### 🛠️ Creations  
 
 #### 🔥 **Main Focuss**  
-- [**Bug Appetit 🐛**](https://bugappetit.app) – Discover hidden bugs in your food with this simple and practical app.  
+- [**Mister Feedback**](https://misterfeedback.com) – Feedback platform SaaS
 
 #### 🏛️ **Notable Discontinued Projects**  
 Here are some past experiments & learnings:  
@@ -33,7 +33,8 @@ Here are some past experiments & learnings:
 - [**ScrolluXJS**](https://github.com/ARKHN3B/ScrolluXJS) – Create one-page scroll experiences.  
 - [**netlify-plugin-use-env-in-runtime**](https://github.com/ARKHN3B/netlify-plugin-use-env-in-runtime) – Expose env variables at runtime.  
 - [**Clearage**](https://chrome.google.com/webstore/detail/clearage-clear-your-local/degjfgjmcbgmokkinibindbpghljhnfp?hl=en) – Clean your localStorage easily via extension.  
-- [**Locerts**](https://github.com/ARKHN3B/locerts) – Generate local certifications for your machine.  
+- [**Locerts**](https://github.com/ARKHN3B/locerts) – Generate local certifications for your machine.
+- [**Bug Appetit 🐛**](https://bugappetit.app) – Discover hidden bugs in your food with this simple and practical app. (Thanks to AdMob!)
 
 > 📝 *Each project taught valuable lessons in development, scaling, and market fit.*  
 

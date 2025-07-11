@@ -1,6 +1,6 @@
 ### [Hello there](https://www.youtube.com/watch?v=rEq1Z0bjdwc) 👋  
 
-🚀 **Tech entrepreneur & full-stack dev (7+ yrs).**  
+🚀 **Tech entrepreneur & full-stack dev (8+ yrs).**  
 Building **bootstrapped projects** & sharing insights on **X, LinkedIn & YouTube**.  
 
 💡 Passionate about **solving problems & creating value** through scalable software.  

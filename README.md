@@ -26,7 +26,8 @@ Building **bootstrapped projects** & sharing insights on **X, LinkedIn & YouTube
 ### 🛠️ Creations  
 
 #### 🔥 **Main Focuss**  
-- [**Mister Feedback**](https://misterfeedback.com) – Feedback platform SaaS
+- [**MisterFeedback**](https://misterfeedback.com) – Feedback platform SaaS
+- [**GeoBattue**](https://geobattue.app) – Application for locating hunting posts
 
 #### 🏛️ **Notable Discontinued Projects**  
 Here are some past experiments & learnings:  
